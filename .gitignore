@@ -75,3 +75,7 @@ json/.vscode/
 .git/
 .gitignore
 .vscode/settings.json
+
+# Standard: Ignore Playground but track folder
+_Playground/*
+!_Playground/.gitkeep
